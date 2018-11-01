@@ -1,5 +1,5 @@
 package model
 
-func Get() {
-	
+func Get() string {
+	return "Hello World!"
 }

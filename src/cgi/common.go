@@ -1,5 +1,7 @@
 package cgi
 
-func Get()  {
-	
+import "model"
+
+func Get() string {
+	return model.Get()
 }
