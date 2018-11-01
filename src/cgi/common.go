@@ -1,0 +1,5 @@
+package cgi
+
+func Get()  {
+	
+}
